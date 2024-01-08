@@ -104,6 +104,7 @@ header {
     background: var(--main-color);
 }
 .home{
+    top: 0;
     width: 100%;
     min-height: 100vh;
     position: relative;
